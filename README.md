@@ -118,3 +118,18 @@ RA-L 2023). Both are GPLv3.
 
 This branch carries the implementation only. The evaluation campaign, the
 scoring scripts and the recorded results are on `main`.
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@misc{clarity2026jetsonorbslam3,
+  title         = {Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices},
+  author        = {Rajat Roy, Aditya Arun Kumar Yadav and Hardik Jain},
+  year          = {2026},
+  eprint        = {2608.17874},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO}
+}
+```
